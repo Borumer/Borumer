@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Borum Jot, my first native Android application, and Chatfish, my first native Windows application.
 - 🌱 I’m currently learning the Windows Presentation Foundation framework and Android API. 
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on an open-source JavaScript, Java, or PHP project
 - 🤔 I’m looking for help with good tools for planning an app and efficiently wireframing and prototyping
 - 💬 Ask me about Big Tech
 - 📫 How to reach me: Twitter - @VarunS924
