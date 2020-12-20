@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Borum Jot for Web, my first cross-platform coding project, and a Java program that removes ambient noise from an audio file
-- 🌱 I’m currently learning the Windows Presentation Foundation framework and Android API. 
+- 🌱 I’m currently learning the Windows Presentation Foundation framework and NextJS, a React web framework
 - 👯 I’m looking to collaborate on an open-source JavaScript, Java, or PHP project
 - 🤔 I’m looking for help with good tools for planning an app and efficiently wireframing and prototyping
 - 💬 Ask me about Big Tech
